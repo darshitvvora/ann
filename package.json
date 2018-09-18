@@ -1,0 +1,20 @@
+{
+  "name": "ann-brain-demo",
+  "version": "1.0.0",
+  "description": "ann, brainJS, Machine learning",
+  "main": "xor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "brainJS",
+    "machine",
+    "learning",
+    "javascript"
+  ],
+  "author": "Darshit Vora",
+  "license": "ISC",
+  "dependencies": {
+    "brain.js": "^1.2.8"
+  }
+}
